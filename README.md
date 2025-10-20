@@ -7,7 +7,7 @@
   <h3 align="center">A student at UIT </h3>
 </p>
 
-> ✍ As a first-year Computer Science student, I possess a strong passion for technology and problem-solving. I am highly motivated, eager to learn, and adaptable to new challenges
+> ✍ As a second-year Computer Science student, I possess a strong passion for AI. I am highly motivated, eager to learn, and adaptable to new challenges
 
 <br />
 
